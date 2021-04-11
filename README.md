@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Shivam0609
-- 👀 I’m interested in Devops and Cloud
-- 🌱 I’m currently learning AWSand CI/CD
+- 👋 Hi, I’m Shivam Yadav
+- 👀 I’m interested in Devops, Cloud, Web Development
+- 🌱 I’m currently learning AWS, CI/CD, Django
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at shivamyadav.171169@gmail.com
 
 <!---
 Shivam0609/Shivam0609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
